@@ -1,0 +1,3 @@
+service,key,request
+weather,d500d89c5c31bf5d4e165dbaa8024895,http://api.openweathermap.org/data/2.5/weather?q=London&APPID=d500d89c5c31bf5d4e165dbaa8024895
+weather,NaN,https://f.stdlib.com/thisdavej/weather/forecast/?loc=Kanchipuram,CA&deg=C
